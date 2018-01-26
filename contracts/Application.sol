@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
- contract Registration {
+ contract Application {
 
    Guest[] public guests;
 
